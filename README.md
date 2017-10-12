@@ -13,3 +13,9 @@ The app should work like:
 
 -I can store todos, save them, delete them, check them out (to sign its done), and mark them as IMPORTANT,
 which would make it put the IMPORTANT ones on the top of my list.
+
+##
+
+How you should start:
+
+Fork this repository under your account, clone it for yourself, make the files. After each "milestone"/bigger change, you should make a git commit, and push it up to the repository, so I can follow up with your work.
