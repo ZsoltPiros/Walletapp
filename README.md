@@ -1,6 +1,7 @@
 # fullStackToDo
 
 I want the development to be done by these technological principles:
+
 -The application should have a database, with table and fields, you see fit to the application.
 
 -The application should have a server.js, which is in nodejs and express, and communicates with the db.
